@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "affinitymatrix"]
+	path = affinitymatrix
+	url = https://github.com/edoardociscato/affinitymatrix
+	shallow = true
+	registered = true
